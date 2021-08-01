@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeenageRobot
 - 👀 I’m interested in Python, JS, HTML, and CSS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ES6
 - 💞️ I’m looking to collaborate on CSS
 
 <!---
